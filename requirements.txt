@@ -1,0 +1,9 @@
+flask==3.0.3
+flask-cors==4.0.1
+Pillow==10.3.0
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.42.4
+accelerate==0.31.0
+gunicorn==22.0.0
+python-dotenv==1.0.1
